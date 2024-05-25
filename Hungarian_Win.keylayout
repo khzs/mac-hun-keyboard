@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 2.2.8 on 2015-07-26 at 00:47 (BST)-->
 <!---->
-<keyboard group="29" id="30763" name="HungarianWin" maxout="1">
+<keyboard group="29" id="30763" name="Hun 01" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
     </layouts>
